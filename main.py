@@ -118,7 +118,7 @@
 # print(max_count)
 
 watermelons = int(input('Введите кол-во арбузов: '))
-
+# привет
 max_kg = int(input('Введите массу арбуза: '))
 min_kg = max_kg
 for _ in range(watermelons - 1):
